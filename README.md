@@ -40,6 +40,12 @@ Reproducible, Colab-first research software for estimating short-horizon market 
 
 ---
 
+## ✍️ Writing
+
+**[The Genesis Letter](https://agkoodanga.wordpress.com)** — my collection of essays and pieces on WordPress: writing on ideas, society, and the examined life.
+
+---
+
 ## 📫 Reach me
 
 - GitHub: [@genesisaugustine98-web](https://github.com/genesisaugustine98-web)
