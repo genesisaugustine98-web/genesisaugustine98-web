@@ -42,7 +42,7 @@ Reproducible, Colab-first research software for estimating short-horizon market 
 
 ## ✍️ Writing
 
-**[The Genesis Letter](https://agkoodanga.wordpress.com)** — my collection of essays and pieces on WordPress: writing on ideas, society, and the examined life.
+**[The Genesis Letter](https://agkoodanga.wordpress.com)** — my publication (258 pieces and counting): sharp essays on AI, software, and how systems earn trust, alongside personal literary letters on everyday life.
 
 ---
 
