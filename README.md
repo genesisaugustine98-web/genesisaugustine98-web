@@ -8,8 +8,8 @@ I build software that has to prove itself: security tools that verify their own 
 
 ## 🔍 Featured work
 
-### [Web3Guard](https://github.com/genesisaugustine98-web/web3guard-bounty-hunter) — exploit-verification engine for smart contracts
-Most scanners stop at "this looks suspicious." Web3Guard keeps going: it builds the attack, executes it in a sandbox, and only reports a finding when the machine itself reproduces the exploit. 8 languages (Solidity, Vyper, Move, Cairo, Clarity, FunC, Rust, TypeScript), 100% precision/recall on the SmartBugs benchmark, 900+ tests, zero-cost offline engine.
+### Web3Guard — exploit-verification engine for smart contracts
+Most scanners stop at "this looks suspicious." Web3Guard keeps going: it builds the attack, executes it in a sandbox, and only reports a finding when the machine itself reproduces the exploit. 8 languages, 100% precision/recall on the SmartBugs benchmark, 900+ tests, zero-cost offline engine. *(Private repository — available for acquisition; serious inquiries welcome.)*
 
 ### [GideonEA](https://github.com/genesisaugustine98-web/GideonEA) — self-contained MT5 trading robot
 One file, no cloud, no API keys, no subscriptions. RSI mean-reversion across 5 currency pairs, every parameter frozen only after passing strict out-of-sample gates (2014–2026 backtest: +61.8%, Sharpe 0.94). Runs on a demo account — honest numbers, no hype.
